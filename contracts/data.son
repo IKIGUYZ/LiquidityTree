@@ -1,0 +1,149 @@
+{
+    "count": 9,
+    "data": {
+      "18908": { "1": 1.958791046289879, "2": 1.8536333185363039 },
+      "18919": { "13": 1.2868857959241224, "14": 3.663939532073062 },
+      "18925": { "15": 1.0667205118455152, "16": 8.885151401257524 },
+      "18930": { "21": 1.3728778230866183, "22": 3.1094231128514895 },
+      "18937": { "23": 2.139018923663185, "24": 1.7167501200706994 },
+      "18944": { "25": 3.9219671937147336, "26": 1.257820634796325 },
+      "18951": { "29": 3.600247173514119, "40": 1.2949320492675171 },
+      "18958": { "30": 3.4904074665318827, "39": 1.3097568400640984 },
+      "18965": { "31": 1.849220127477728, "38": 1.9637434169612658 }
+    }
+  }
+  
+
+{
+  "count": 1,
+  "data": [
+    {
+      "count": 9,
+      "conditions": [
+        {
+          "id": 18965,
+          "outcomesRegistryId": [3, 4],
+          "outcomes": [31, 38],
+          "status": 0,
+          "oracleConditionId": 90237,
+          "fundBank": ["2587064888918743271858", "2569498111081256728141"],
+          "totalNetBets": ["156563000000000000000", "0"],
+          "payouts": ["297568709131959000000", "0"],
+          "margin": 50000000,
+          "reinforcement": "5000000000000000000000"
+        },
+        {
+          "id": 18937,
+          "outcomesRegistryId": [9, 10],
+          "outcomes": [23, 24],
+          "status": 0,
+          "oracleConditionId": 90229,
+          "fundBank": ["2220223640134884525328", "2789776359865115474671"],
+          "totalNetBets": ["0", "10000000000000000000"],
+          "payouts": ["0", "17191062000000000000"],
+          "margin": 50000000,
+          "reinforcement": "5000000000000000000000"
+        },
+        {
+          "id": 18951,
+          "outcomesRegistryId": [1, 6],
+          "outcomes": [29, 40],
+          "status": 0,
+          "oracleConditionId": 90233,
+          "fundBank": ["1228063398502584489045", "3925936601497415510954"],
+          "totalNetBets": ["114000000000000000000", "40000000000000000000"],
+          "payouts": ["428907912759000000000", "51920504520000000000"],
+          "margin": 50000000,
+          "reinforcement": "5000000000000000000000"
+        },
+        {
+          "id": 18925,
+          "outcomesRegistryId": [7, 8],
+          "outcomes": [15, 16],
+          "status": 0,
+          "oracleConditionId": 90221,
+          "fundBank": ["4578810677181500692632", "421189322818499307367"],
+          "totalNetBets": ["0", "0"],
+          "payouts": ["0", "0"],
+          "margin": 50000000,
+          "reinforcement": "5000000000000000000000"
+        },
+        {
+          "id": 18919,
+          "outcomesRegistryId": [7, 8],
+          "outcomes": [13, 14],
+          "status": 0,
+          "oracleConditionId": 90219,
+          "fundBank": ["3764592326658995332912", "1235407673341004667087"],
+          "totalNetBets": ["0", "0"],
+          "payouts": ["0", "0"],
+          "margin": 50000000,
+          "reinforcement": "5000000000000000000000"
+        },
+        {
+          "id": 18930,
+          "outcomesRegistryId": [9, 10],
+          "outcomes": [21, 22],
+          "status": 0,
+          "oracleConditionId": 90227,
+          "fundBank": ["3520042283497534618982", "1479957716502465381017"],
+          "totalNetBets": ["0", "0"],
+          "payouts": ["0", "0"],
+          "margin": 50000000,
+          "reinforcement": "5000000000000000000000"
+        },
+        {
+          "id": 18908,
+          "outcomesRegistryId": [180, 181],
+          "outcomes": [1, 2],
+          "status": 0,
+          "oracleConditionId": 90209,
+          "fundBank": ["2427413262601864557476", "2572586737398135442523"],
+          "totalNetBets": ["0", "0"],
+          "payouts": ["0", "0"],
+          "margin": 50000000,
+          "reinforcement": "5000000000000000000000"
+        },
+        {
+          "id": 18944,
+          "outcomesRegistryId": [9, 10],
+          "outcomes": [25, 26],
+          "status": 0,
+          "oracleConditionId": 90231,
+          "fundBank": ["1145081441768533565532", "3854918558231466434467"],
+          "totalNetBets": ["0", "0"],
+          "payouts": ["0", "0"],
+          "margin": 50000000,
+          "reinforcement": "5000000000000000000000"
+        },
+        {
+          "id": 18958,
+          "outcomesRegistryId": [2, 5],
+          "outcomes": [30, 39],
+          "status": 0,
+          "oracleConditionId": 90235,
+          "fundBank": ["1302060714030127757965", "3701939285969872242034"],
+          "totalNetBets": ["4000000000000000000", "0"],
+          "payouts": ["13987781386000000000", "0"],
+          "margin": 50000000,
+          "reinforcement": "5000000000000000000000"
+        }
+      ],
+      "gameId": 2228690,
+      "startDate": 1664217900,
+      "sportTypeId": 33,
+      "titleCountry": "International Tournaments",
+      "titleLeague": "UEFA Nations League - Round 6",
+      "opponents": [
+        {
+          "title": "Hungary",
+          "image": "https://content.bookieratings.net/images/e9/rg/e9rgwc_20181001112737_100x80.png"
+        },
+        {
+          "title": "Italy",
+          "image": "https://content.bookieratings.net/images/57/rz/57rz9o_20181001112737_100x80.png"
+        }
+      ]
+    }
+  ]
+}
