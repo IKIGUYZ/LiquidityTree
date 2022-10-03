@@ -1,0 +1,24 @@
+** Init fund bank when create condition.
+    - FundBank[0] = (reinforcement * odds[1]) / (odds[0] + odds[1])
+    - FundBank[1] = (reinforcement * odds[0]) / (odds[0] + odds[1])
+
+Example: Reinforcement = 100$, odds = [2, 3] => fundBanks = [40$, 60$].
+
+** Calculate new odds when put bet:
+    - Core concept:
+        + Params: 
+            . @param odds betting odds.
+            . @param marginality fee for dealer. Example 0.5%.
+            . @param multiplier Precision and min bet amount. Example 1e9.
+        + Symbols:
+            . O: odds
+            . M: multiplier
+            . MG: marginality
+            . RO: revertOdds.
+            . NO: newOdds.
+
+        + Calc:
+            . RO
+            . A
+            . B
+            . NO
